@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikipediaWebCrawler", "WikipediaWebCrawler\WikipediaWebCrawler.csproj", "{558C9CBB-2A89-4A29-9A8C-1DCAD3583F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558C9CBB-2A89-4A29-9A8C-1DCAD3583F03}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{558C9CBB-2A89-4A29-9A8C-1DCAD3583F03}.Debug|anycpu.Build.0 = Debug|anycpu
+		{558C9CBB-2A89-4A29-9A8C-1DCAD3583F03}.Release|anycpu.ActiveCfg = Release|anycpu
+		{558C9CBB-2A89-4A29-9A8C-1DCAD3583F03}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

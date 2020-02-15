@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{558C9CBB-2A89-4A29-9A8C-1DCAD3583F03}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WikipediaWebCrawler/Program.cs">
+    <Files>
+      <File FileName="WikipediaWebCrawler/Program.cs" Line="75" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WikipediaWebCrawler" expanded="True" selected="True">
+            <Node name="WikipediaWebCrawler" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WikipediaWebCrawler PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
